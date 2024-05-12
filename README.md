@@ -2,7 +2,7 @@
 
 It gives you the weather details of present day along with future forecast of seven days of searched city.
 
-<h3>check [Live](https://khemrajpr92.github.io/Geoweather1/)<h3/>
+<h3>check [Live]((https://geo-weather-muz6.vercel.app/)<h3/>
 
 # #This site is made using HTML , CSS , Javascript , DOM & API 😇
 
