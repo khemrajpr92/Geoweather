@@ -16,9 +16,11 @@ It gives you the weather details of present day along with future forecast of se
 
 - Seach by geolocation.
 - Search by input.
-- note :- not suitable for small screen
+  
 
 - Search by geolocation
 
-- ![Screenshot (487)](https://github.com/khemrajpr92/Geoweather1/assets/123429589/b3e3f0ba-69d4-400b-a86e-d346c457c205)
+
   
+![Weather - Google Chrome 6_3_2024 12_16_05 PM](https://github.com/khemrajpr92/GeoWeather/assets/123429589/53ccc445-bac5-491a-bf00-fc508b32915b)
+![Weather - Google Chrome 6_3_2024 12_16_16 PM](https://github.com/khemrajpr92/GeoWeather/assets/123429589/f1d3e9d7-f568-4e44-8908-0eb6ccbd9c9e)
